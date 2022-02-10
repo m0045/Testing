@@ -1,0 +1,6 @@
+this is a .txt file
+hey i created this file using command line..
+tatadaaaaaaaaaaaaaa!
+:wq! demo.txt
+
+
